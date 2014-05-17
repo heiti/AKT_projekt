@@ -5,7 +5,7 @@ programm
     ;
 
 lausetejada
-    :   lause ('; lause)*
+    :   lause (';' lause)*
     ;
 
 lause
@@ -13,4 +13,4 @@ lause
     ;
 
 lauadeklaratsioon
-    :   'var' Muutujanimi '='  
+    :   'var' Muutujanimi '='
